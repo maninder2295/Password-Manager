@@ -1,6 +1,4 @@
 # Password-Manager
-Here you can restore password as well generate for the particular website and save it.
-
 
   <> As we know we surf to so many sites and login to that sites to. To save our self from forgeting passwords and to restore it, when can simply use this project to restore our passwords.
   
